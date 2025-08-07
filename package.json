@@ -1,0 +1,25 @@
+{
+  "name": "player-movement",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel public/index.html",
+    "build": "parcel build public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mogashima/player-movement.git"
+  },
+  "author": "Mineshima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mogashima/player-movement/issues"
+  },
+  "homepage": "https://github.com/mogashima/player-movement#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.15.4",
+    "parcel": "^2.15.4",
+    "sass": "^1.90.0",
+    "typescript": "^5.9.2"
+  }
+}

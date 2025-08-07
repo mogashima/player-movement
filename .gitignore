@@ -1,0 +1,9 @@
+# Node modules（依存パッケージ）
+node_modules/
+
+# TypeScript出力先（distやbuildなど）
+dist/
+build/
+
+# キャッシュファイルなど
+.parcel-cache
