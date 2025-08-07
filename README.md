@@ -15,23 +15,23 @@
 以下の手順でプロジェクトをセットアップできます。
 
 
-# リポジトリをクローン
+### リポジトリをクローン
 ```bash
 git clone https://github.com/your-username/player-movement.git
 cd player-movement
 ```
 
-# 依存パッケージのインストール
+### 依存パッケージのインストール
 ```bash
 npm install
 ```
 
-# ローカル開発環境を起動します。
+### ローカル開発環境を起動します。
 ```bash
 npm start
 ```
 
-# ビルド（本番用ファイルの生成）
+### ビルド（本番用ファイルの生成）
 ```bash
 npm run build
 ```
